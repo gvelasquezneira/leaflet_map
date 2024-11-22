@@ -1,9 +1,13 @@
 body {
-    background: linear-gradient(#89f6a1, #7aa2f1);
+    background: linear-gradient(#fd8585, #3a3c3f);
     font-family: 'Afacad Flux', Arial, sans-serif;
 }
 
 h1 {
+    font-family: 'Afacad Flux', Verdana, sans-serif;
+}
+
+p {
     font-family: 'Afacad Flux', Verdana, sans-serif;
 }
 
@@ -12,3 +16,4 @@ h1 {
     width: 100%;
     border: 1px solid #fff;
 }
+
